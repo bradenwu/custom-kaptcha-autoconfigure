@@ -1,0 +1,4 @@
+cn\edu\ncut\cs\springboot\Main.class
+com\guodexian\kaptcha\config\KaptchaConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\guodexian\kaptcha\config\KaptchaProperties.class
